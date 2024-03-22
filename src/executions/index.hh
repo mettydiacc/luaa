@@ -7,5 +7,5 @@ inline void _index(int argc, char *argv[])
       const char *file = filee.c_str();
       int res = system(file);
       std::cout << res << std::endl;
-      // i don't remember what i wanted to do lmao
+      // i don't remember what i wanted to do lmao 
 }
