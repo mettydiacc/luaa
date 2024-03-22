@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <vector>
 #include <filesystem>
+#include <fstream>
 
 extern "C"
 {
